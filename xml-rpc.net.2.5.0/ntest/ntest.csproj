@@ -121,9 +121,7 @@
     <Compile Include="deserializeresponsetest.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="invoketest.cs">
-      <SubType>Component</SubType>
-    </Compile>
+    <Compile Include="invoketest.cs" />
     <Compile Include="Listener.cs" />
     <Compile Include="listenertest.cs" />
     <Compile Include="optionaldeserializetest.cs">
